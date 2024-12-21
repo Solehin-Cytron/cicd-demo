@@ -1,0 +1,1 @@
+print("Hello Yoshio v10")
